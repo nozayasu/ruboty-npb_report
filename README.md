@@ -1,3 +1,7 @@
+# Notice
+It does not currently work.  
+Because, [using api](https://github.com/p1ch-jp/BotchAPI) is stopped.
+
 # Ruboty::NpbReport
 
 ## Installation
